@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12699" started-at="2021-03-26T09:35:23Z" finished-at="2021-03-26T09:35:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12699" started-at="2021-03-26T09:35:23Z" finished-at="2021-03-26T09:35:36Z">
+      <class name="Raksha.ExtentReports.ExtentReportDemo">
+        <test-method status="PASS" signature="config()[pri:0, instance:Raksha.ExtentReports.ExtentReportDemo@ae45eb6]" name="config" is-config="true" duration-ms="498" started-at="2021-03-26T09:35:23Z" finished-at="2021-03-26T09:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:Raksha.ExtentReports.ExtentReportDemo@ae45eb6]" name="initialDemo" duration-ms="12159" started-at="2021-03-26T09:35:24Z" finished-at="2021-03-26T09:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+      </class> <!-- Raksha.ExtentReports.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
